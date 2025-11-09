@@ -1,0 +1,7 @@
+streamlit
+firebase_admin
+google-cloud-firestore
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+protobuf==3.20.3
